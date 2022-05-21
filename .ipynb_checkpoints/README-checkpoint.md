@@ -1,5 +1,5 @@
 # Project-3
 
 <p align="center">
-    <img width="500" height="150" src="images/guatemala.jpg">
+    <img width="800" height="200" src="images/guatemala.jpg">
          </p>
