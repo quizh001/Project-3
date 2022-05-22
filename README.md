@@ -1,4 +1,7 @@
-# Project-3
+
+# Guatemala infrastructure problem in the agriculture sector
+
+# by Tyler Hubbard, Erin Rahman, Wilson Quizhpi
 
 <p align="center">
     <img width="800" height="200" src="images/guatemala.jpg">
