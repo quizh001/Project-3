@@ -17,7 +17,7 @@
         
 ## GDP
   <p align="center">
-<img width="200" height="100" src="images/GDP.jpg">
+<img width="200" height="100" src="images/GDP.png">
         </p>
 $77.6 billion USD (2020)
          
