@@ -22,7 +22,7 @@
   
         
  <p align="center">
-<img width="300" height="300" src="images/laborForce.png">
+<img width="300"  src="images/laborForce.png">
   
  <p align="center">
 <img width="300" height="300" src="images/gdp_sector.png">
