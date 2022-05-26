@@ -18,11 +18,11 @@
         
 ## GDP
   <p align="center">
-<img width="500" height="200" src="images/GDP.png">
+<img width="300" height="200" src="images/GDP.png">
         </p>
         
  <p align="center">
-<img width="500" height="200" src="images/laborForce.png">
+<img width="300" height="300" src="images/laborForce.png">
         </p>
         
  <p align="center">
