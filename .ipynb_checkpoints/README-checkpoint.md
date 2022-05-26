@@ -13,8 +13,13 @@
 <img width="200" height="100" src="images/farming.jpg"><img width="200" height="100" src="images/farmingmoun.png"><img width="200" height="100" src="images/womanfarming.jpg"><img width="200" height="100" src="images/womanspr.jpg">
         </p>
         
+
+        
 ## GDP
-$141.5 billion (2020 est.)
+  <p align="center">
+<img width="200" height="100" src="images/GDP.jpg">
+        </p>
+$77.6 billion USD (2020)
          
 ## Agricultural products
 
